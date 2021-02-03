@@ -5,6 +5,12 @@
       "id": "sample-apps-oauth",
       "description": "Focuses on demonstrating the functionality of OAuth API endpoints and their related actions.",
       "languages": ["node", "python"]
+    },
+    {
+      "name": "CRM Objects App",
+      "id": "sample-apps-manage-crm-objects",
+      "description": "Focuses on demonstrating the functionality of CRM Objects API CRUD endpoints.",
+      "languages": ["node"]
     }
   ]
 }
