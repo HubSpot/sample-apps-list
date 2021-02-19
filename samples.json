@@ -4,7 +4,7 @@
       "name": "Oauth App",
       "id": "sample-apps-oauth",
       "description": "Focuses on demonstrating the functionality of OAuth API endpoints and their related actions.",
-      "languages": ["node", "python"]
+      "languages": ["node", "python", "php"]
     },
     {
       "name": "CRM Objects App",
