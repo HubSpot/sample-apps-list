@@ -10,7 +10,7 @@
       "name": "CRM Objects App",
       "id": "sample-apps-manage-crm-objects",
       "description": "Focuses on demonstrating the functionality of CRM Objects API CRUD endpoints.",
-      "languages": ["node"]
+      "languages": ["node", "php"]
     }
   ]
 }
