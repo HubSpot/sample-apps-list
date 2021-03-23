@@ -11,6 +11,12 @@
       "id": "sample-apps-manage-crm-objects",
       "description": "Focuses on demonstrating the functionality of CRM Objects API CRUD endpoints.",
       "languages": ["node", "php"]
+    },
+    {
+      "name": "Custom Object App",
+      "id": "sample-apps-custom-object",
+      "description": "Focuses on demonstrating the functionality of CRM Custom Objects API CRUD endpoints.",
+      "languages": ["node", "php"]
     }
   ]
 }
