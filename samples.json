@@ -1,21 +1,21 @@
 {
   "samples": [
     {
-      "name": "Oauth App",
+      "name": "OAuth sample app",
       "id": "sample-apps-oauth",
-      "description": "Focuses on demonstrating the functionality of OAuth API endpoints and their related actions.",
+      "description": "This sample app demonstrates how to authenticate a HubSpot app using OAuth 2.0 and make your first API call.",
       "languages": ["node", "python", "php", "ruby"]
     },
     {
-      "name": "CRM Objects App",
+      "name": "CRM Objects sample app",
       "id": "sample-apps-manage-crm-objects",
-      "description": "Focuses on demonstrating the functionality of CRM Objects API CRUD endpoints.",
+      "description": "This sample app demonstrates how to create and manage CRM objects using the CRM v3 Objects API.",
       "languages": ["node", "php"]
     },
     {
-      "name": "Custom Object App",
+      "name": "Custom Object sampleApp",
       "id": "sample-apps-custom-object",
-      "description": "Focuses on demonstrating the functionality of CRM Custom Objects API CRUD endpoints.",
+      "description": "This sample app demonstrates how to create and manage CRM custom objects using the CRM v3 Custom Objects API.",
       "languages": ["node", "php"]
     }
   ]
