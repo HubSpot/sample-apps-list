@@ -10,13 +10,13 @@
       "name": "CRM Objects sample app",
       "id": "sample-apps-manage-crm-objects",
       "description": "This sample app demonstrates how to create and manage CRM objects using the CRM v3 Objects API.",
-      "languages": ["node", "php"]
+      "languages": ["node", "python", "php", "ruby"]
     },
     {
       "name": "Custom Object sampleApp",
       "id": "sample-apps-custom-object",
       "description": "This sample app demonstrates how to create and manage CRM custom objects using the CRM v3 Custom Objects API.",
-      "languages": ["node", "php"]
+      "languages": ["node", "python", "php", "ruby"]
     }
   ]
 }
